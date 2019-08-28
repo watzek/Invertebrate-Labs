@@ -9,6 +9,7 @@ If you have any problems or questions, come to the DI office (Watzek 343, up the
   - Scroll up on this page, and click the green 'Clone or download' button
   - Select Download ZIP
   - Unzip the file!  
+  
 
 2. **<font color="teal">Create a Watzek Datasci account</font>**
   - Navigate to [Watzek Datasci](https://datasci.watzek.cloud)
@@ -16,7 +17,8 @@ If you have any problems or questions, come to the DI office (Watzek 343, up the
   - When prompted, create a new password for datasci
       - *we recommend using your lclark password, so you don't forget it*
   - Click ['Jupyter Notebooks'](https://jupyter.datasci.watzek.cloud)  
-
+  
+    
 3. **<font color="teal">Upload files to Jupyter</font>**
   - Click 'upload' on the upper-right side of the page
   - Select each lab (Lab 1-8)
