@@ -29,20 +29,20 @@ If you have any problems or questions, come to the DI office (Watzek 343, up the
 
 Markdown
 =====================================
-Markdown lets you add formatting to text such as *italics*, **bold**, <font color="red">Colored Text</font>, [Links](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and more!
+Markdown lets you add formatting to text such as *italics*, **bold**, <font color="red">Colored Text (doesn't work here)</font>, [Links](https://www.youtube.com/watch?v=dQw4w9WgXcQ), and more!
 
 By learning a little bit of syntax, you can use this tool to turn plaintext directly into HTML (what websites are made of). This document and all of the labs are made using markdown.
 
 ## Using Markdown in Jupyter notebooks  
 To start using markdown in Jupyter:
-1. click 'New' and select a language from the top 'Notebook'section (Python 2, Python 3, R, SageMath, it doesn't really matter for our purposes).
+1. On https://jupyter.datasci.watzek.cloud Click 'New' and select a language from the 'Notebook'section (Python 2, Python 3, R, SageMath, it doesn't really matter for our purposes).
 2. You will be taken to a new webpage containing the notebook you just created
 3. Select the sole cell on the page, and select Cell > Cell Type > Markdown from the top menu
 4. Select the input section of the cell and you can type freely
 
-**To Create a new Cell**
+**To Create a new Cell**  
 Insert > (Above or Below) *or* press 'a' or 'b'
-**To Run a Cell (Render the Markdown)**
+**To Run a Cell (Render the Markdown)**  
 Cell > Run Cells *or* press shift+enter
 
 ## Markdown Basics  
@@ -68,7 +68,7 @@ You can add multiple #'s to make the header smaller/less important
 
 # Header 1
 ## Header 2
-## Header 3
+### Header 3
 
 remember the space after the #'s!
 #This is not a header
@@ -96,7 +96,7 @@ use this formatting:
 
 [words to appear in place of the link](the actual link)
 
-For an image, but an ! before it all
+For an image, put an ! before it all
 ![Alternate text (if image is broken)](link to a picture)
 ```
 
@@ -128,6 +128,7 @@ Links
 =============
 **Resources**
 * [One](https://commonmark.org/help/)
-* [Two](https://daringfireball.net/projects/markdown/)
-**Other**
+* [Two](https://daringfireball.net/projects/markdown/)  
+  
+**Other**  
 * ['Markdown Here' Chrome Extension](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
