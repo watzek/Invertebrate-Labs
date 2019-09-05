@@ -42,7 +42,8 @@ To start using markdown in Jupyter:
 
 **To Create a new Cell**  
 Insert > (Above or Below) *or* press 'a' or 'b'
-**To Run a Cell (Render the Markdown)**  
+  
+**To Run a Cell (Render the Markdown)**    
 Cell > Run Cells *or* press shift+enter
 
 ## Markdown Basics  
@@ -74,11 +75,12 @@ remember the space after the #'s!
 #This is not a header
 ```
 
-
-**To add color to text**
+**To add color to text surround with font tags**
 ```
 prepend the text with <font color="MyColor">,
 and append </font>
+
+and change MyColor to a color of your choice
 
 only some colors are supported, including:
 purple
@@ -129,6 +131,6 @@ Links
 **Resources**
 * [One](https://commonmark.org/help/)
 * [Two](https://daringfireball.net/projects/markdown/)  
-  
+
 **Other**  
 * ['Markdown Here' Chrome Extension](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
