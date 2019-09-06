@@ -42,7 +42,7 @@ To start using markdown in Jupyter:
 
 **To Create a new Cell**  
 Insert > (Above or Below) *or* press 'a' or 'b'
-  
+
 **To Run a Cell (Render the Markdown)**    
 Cell > Run Cells *or* press shift+enter
 
@@ -51,7 +51,7 @@ We will cover some of the basics here, and any additional information can be fou
 
 **To italicize text, simply surround it with '*'**
 ```
-don't put any spaces after the fist * or before the last,
+don't put any spaces after the first * or before the last,
 *This is italicized*
 * This is not *
 ```
@@ -94,9 +94,11 @@ if you want to make text bold/italic/header and colored, put the *,**,# on the o
 
 **To make a link**
 ```
-use this formatting:
+For each link there two parts, the stand-in text, and the actual link!
+the stand-in text is what will be visible, and when it is clicked it will redirect to the actual link!
+Use this formatting:
 
-[words to appear in place of the link](the actual link)
+[stand-in text](the actual link)
 
 For an image, put an ! before it all
 ![Alternate text (if image is broken)](link to a picture)
@@ -129,8 +131,9 @@ The 'Links' section below has some links to websites that go over all of the mar
 Links
 =============
 **Resources**
-* [One](https://commonmark.org/help/)
-* [Two](https://daringfireball.net/projects/markdown/)  
+* [Common Mark Syntax Guide](https://commonmark.org/help/)
+* [Another One](https://daringfireball.net/projects/markdown/)  
+* :)
 
 **Other**  
 * ['Markdown Here' Chrome Extension](https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa)
